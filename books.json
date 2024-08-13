@@ -1,0 +1,26 @@
+[
+    {
+        "id": "3494",
+        "name": "Gay Manga Vol.1",
+        "author": "Hell",
+        "available": false
+    },
+    {
+        "id": "1326",
+        "name": "Gay Manga Vol.2",
+        "author": "Hell",
+        "available": false
+    },
+    {
+        "id": "9675",
+        "name": "Gay Manga Vol.3",
+        "author": "Hell",
+        "available": false
+    },
+    {
+        "id": "4498",
+        "name": "Gay Manga Vol.4",
+        "author": "Hell",
+        "available": true
+    }
+]
