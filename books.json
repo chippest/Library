@@ -1,26 +1,71 @@
 [
     {
-        "id": "3494",
-        "name": "Gay Manga Vol.1",
-        "author": "Hell",
-        "available": false
+        "id": "2872",
+        "name": "DBZ Volume 1",
+        "author": "Toriyama",
+        "available": true,
+        "usertags": []
     },
     {
-        "id": "1326",
-        "name": "Gay Manga Vol.2",
-        "author": "Hell",
-        "available": false
+        "id": "4802",
+        "name": "DBZ Volume 2",
+        "author": "Toriyama",
+        "available": true,
+        "usertags": []
     },
     {
-        "id": "9675",
-        "name": "Gay Manga Vol.3",
-        "author": "Hell",
-        "available": false
+        "id": "4579",
+        "name": "DBZ Volume 3",
+        "author": "Toriyama",
+        "available": true,
+        "usertags": []
     },
     {
-        "id": "4498",
-        "name": "Gay Manga Vol.4",
-        "author": "Hell",
-        "available": true
+        "id": "8364",
+        "name": "Cave House Tutorial",
+        "author": "Herobrine666",
+        "available": false,
+        "usertags": [
+            "minecraft",
+            "mcpe",
+            "herobrine",
+            "tutorial",
+            "guide",
+            "game",
+            "mine",
+            "craft"
+        ]
+    },
+    {
+        "id": "1363",
+        "name": "Redstone House Tutorial",
+        "author": "Herobrine666",
+        "available": false,
+        "usertags": [
+            "minecraft",
+            "mcpe",
+            "herobrine",
+            "tutorial",
+            "guide",
+            "game",
+            "mine",
+            "craft"
+        ]
+    },
+    {
+        "id": "8993",
+        "name": "Skyscraper Guide",
+        "author": "Herobrine666",
+        "available": false,
+        "usertags": [
+            "minecraft",
+            "mcpe",
+            "herobrine",
+            "tutorial",
+            "guide",
+            "game",
+            "mine",
+            "craft"
+        ]
     }
 ]
